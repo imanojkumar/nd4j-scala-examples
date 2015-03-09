@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a749f486-6702-4f1a-9267-f232de6d8576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__junit_junit_4_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_javassist_javassist_3_18_2_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_jblas_jblas_1_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_jmock_jmock_2_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_nd4j_nd4j_api_0_0_3_5_5_3_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_nd4j_nd4j_jblas_0_0_3_5_5_3_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_reflections_reflections_0_9_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_scala_lang_scala_library_2_7_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_10_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_scalacheck_scalacheck_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_scalatest_scalatest_0_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_scalatest_scalatest_2_10_2_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_specs_specs_1_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/libraries/Maven__org_springframework_spring_core_3_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/scala_compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/nd4j-scala-examples.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/pom.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/nd4j-scala-examples/src/main/scala/org/nd4j/Nd4jScalaExamples.scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/nd4j-scala-examples.iml" afterPath="$PROJECT_DIR$/.idea/nd4j-scala-examples.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nd4j-scala-examples.iws" />
@@ -68,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="1395">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -88,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nd4jScalaExamples.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Nd4jScalaExamples.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/org/nd4j/Nd4jScalaExamples.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1275">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.09389672" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -543,14 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/nd4j/Nd4jScalaExamples.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="1215">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="637">
@@ -561,8 +515,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="1395">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/nd4j/Nd4jScalaExamples.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09389672" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>

@@ -3,10 +3,10 @@
   <groupId>org.nd4j</groupId>
   <artifactId>nd4j-scala-examples</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <inceptionYear>2008</inceptionYear>
-  <properties>
-    <scala.version>2.7.0</scala.version>
-  </properties>
+    <packaging>jar</packaging>
+
+    <name>nd4j-scala-examples</name>
+    <url>http://maven.apache.org</url>
 
     <properties>
         <scala.version>2.10.4</scala.version>
