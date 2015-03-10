@@ -4,6 +4,10 @@ import java.util.Arrays
 
 import org.nd4j.api.linalg.DSL._
 import org.nd4j.linalg.factory.Nd4j
+import org.nd4j.linalg.indexing.BooleanIndexing
+import org.nd4j.linalg.indexing.conditions.Conditions
+import org.nd4j.linalg.indexing.functions.Value
+import org.nd4j.linalg.ops.transforms.Transforms._
 
 
 /**
@@ -72,6 +76,24 @@ object Nd4jScalaExamples {
     /** Find min and max values */
     println(Nd4j.max(arr3), "Find max value in array")
     println(Nd4j.min(arr3), "Find min value in array")
+
+    /** Boolean indexing */
+    /** Where a given condition holds true, apply a function to an NDArray */
+    /** In this example, replace any values below 5 with 5 */
+    BooleanIndexing.applyWhere(arr3, Conditions.lessThan(5), new Value(5))
+
+    /** In this example, replace any NaN values with 0 */
+    BooleanIndexing.applyWhere(arr3, Conditions.isNan, new Value(0))
+
+    /** Use .and for conditions that must be true for all elements in the array */
+    if (BooleanIndexing.and(arr3, Conditions.greaterThan(0))) {
+      println("All elements in array are greater than 0.")
+    }
+
+    /** Use .or for conditions that must be true for AT LEAST one element in the array */
+    if (BooleanIndexing.or(arr3, Conditions.lessThanOrEqual(5))) {
+      println("At least one element in array is less than or equal to 5.")
+    }
 
   }
 
