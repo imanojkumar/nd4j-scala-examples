@@ -3,8 +3,9 @@ package org.deeplearning4j.learn
 import java.util.Arrays
 
 import org.nd4j.api.linalg.DSL._
+import org.nd4j.linalg.api.ndarray.INDArray
 import org.nd4j.linalg.factory.Nd4j
-import org.nd4j.linalg.indexing.BooleanIndexing
+import org.nd4j.linalg.indexing.{NDArrayIndex, BooleanIndexing}
 import org.nd4j.linalg.indexing.conditions.Conditions
 import org.nd4j.linalg.indexing.functions.Value
 import org.nd4j.linalg.ops.transforms.Transforms._
@@ -94,6 +95,9 @@ object Nd4jScalaExamples {
     if (BooleanIndexing.or(arr3, Conditions.lessThanOrEqual(5))) {
       println("At least one element in array is less than or equal to 5.")
     }
+
+    /** Use NDArrayIndex for indexing/slicing an array */
+    val arr3Slice: INDArray = arr3.get(NDArrayIndex.interval(1, 5))
 
   }
 
