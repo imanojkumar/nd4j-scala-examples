@@ -40,9 +40,9 @@ object Nd4jScalaExamples {
     /** Transpose matrix */
     val arrT = arr.T
 
-    /** Row (0) and Column (1) Sums */
-    println(Nd4j.sum(arr4, 0).toString + "Calculate the sum for each row")
-    println(Nd4j.sum(arr4, 1).toString + "Calculate the sum for each column")
+    /** Row (1) and Column (0) Sums */
+    println(Nd4j.sum(arr4, 0).toString + "Calculate the sum for each column")
+    println(Nd4j.sum(arr4, 1).toString + "Calculate the sum for each row")
 
     /** Checking array shape */
     println(Arrays.toString(arr2.shape) + "Checking array shape")
